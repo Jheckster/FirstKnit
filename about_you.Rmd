@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Jaci"
 output: 
   html_document:
     number_sections: true
